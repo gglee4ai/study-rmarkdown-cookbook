@@ -1,1 +1,1 @@
-# study-rmarkdown-cookboo
+# study-rmarkdown-cookbook
